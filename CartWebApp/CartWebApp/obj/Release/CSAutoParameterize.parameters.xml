@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CartInventoryDBConnectionString-Web.config Connection String" description="CartInventoryDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=localhost;Initial Catalog=CartInventoryDB;Persist Security Info=True;User ID=sa;Password=Password123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\documents\\visual\ studio\ 2015\\Projects\\CartWebApp\\CartWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CartInventoryDBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
